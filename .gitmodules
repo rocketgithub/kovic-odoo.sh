@@ -1,0 +1,6 @@
+[submodule "inmobiliaria"]
+	path = inmobiliaria
+	url = git@github.com:rocketgithub/inmobiliaria.git
+[submodule "kovic"]
+	path = kovic
+	url = git@github.com:rocketgithub/kovic.git
